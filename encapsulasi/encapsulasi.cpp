@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class remote lampu {
+class remoteLampu {
 private:
 	string saklarNo[10];
 public:
@@ -14,5 +14,5 @@ public:
 };
 
 int main() {
-
+	remoteLampu
 }
