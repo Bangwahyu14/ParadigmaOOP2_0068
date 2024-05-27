@@ -8,4 +8,7 @@ public:
 	void setSaklarNo(int 1, string value) {
 		saklarNo[i] = value;
 	}
+	string getSaklarNo(int i) {
+		return saklarNo[i];
+	}
 };
