@@ -12,3 +12,8 @@ public:
 	}
 
 };
+
+class pekerja : virtual public orang {
+public:
+
+};
