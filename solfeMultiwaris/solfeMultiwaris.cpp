@@ -26,4 +26,8 @@ class pelajar : public orang {
 
 	pekerja(int pUmur) :
 		orang(pUmur)
+
+	{
+		cout << "pelajar dibuat\n" << endl;
+	}
 };
