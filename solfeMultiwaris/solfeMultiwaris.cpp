@@ -22,4 +22,8 @@ public:
 	}
 };
 
-class pelajar : public orang {};
+class pelajar : public orang {
+
+	pekerja(int pUmur) :
+		orang(pUmur)
+};
