@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solfeMultiwaris", "solfeMul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encapsulasi", "encapsulasi\encapsulasi.vcxproj", "{92D68E9A-C6D7-48AA-80B4-B95DE33F43D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{02976887-A37F-4273-968E-D717BD427BC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{92D68E9A-C6D7-48AA-80B4-B95DE33F43D7}.Release|x64.Build.0 = Release|x64
 		{92D68E9A-C6D7-48AA-80B4-B95DE33F43D7}.Release|x86.ActiveCfg = Release|Win32
 		{92D68E9A-C6D7-48AA-80B4-B95DE33F43D7}.Release|x86.Build.0 = Release|Win32
+		{02976887-A37F-4273-968E-D717BD427BC7}.Debug|x64.ActiveCfg = Debug|x64
+		{02976887-A37F-4273-968E-D717BD427BC7}.Debug|x64.Build.0 = Debug|x64
+		{02976887-A37F-4273-968E-D717BD427BC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{02976887-A37F-4273-968E-D717BD427BC7}.Debug|x86.Build.0 = Debug|Win32
+		{02976887-A37F-4273-968E-D717BD427BC7}.Release|x64.ActiveCfg = Release|x64
+		{02976887-A37F-4273-968E-D717BD427BC7}.Release|x64.Build.0 = Release|x64
+		{02976887-A37F-4273-968E-D717BD427BC7}.Release|x86.ActiveCfg = Release|Win32
+		{02976887-A37F-4273-968E-D717BD427BC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
