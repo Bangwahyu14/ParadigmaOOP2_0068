@@ -6,3 +6,9 @@ class baseClass final {
 		cout << "Hallo saya funcation dari base class";
 	}
 };
+
+class derivedClass : public baseClass {
+public:
+	void perkenalan() {
+		cout << "Hallo saya funcation dari derived Class";
+	}
