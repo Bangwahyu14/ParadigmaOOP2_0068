@@ -41,6 +41,6 @@ public:
 		pelajar(pUmur),
 		orang(pUmur) //hal ini dapat dilakukan jika mengunakan virtual
 	{
-		
+		cout << "budi dibuat\n" << endl;
 	}
 };
