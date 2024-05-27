@@ -15,3 +15,6 @@ public:
 	}
 
 };
+int main() {
+
+}
